@@ -1,0 +1,39 @@
+.box{
+  width: 320px;
+  height: 60px;
+  background-color: #52AD81;
+  font-family: 'Open Sans',serif;
+  
+}
+.box .icon{
+  width: 60px;
+  height: 60px;
+  vertical-align: middle;
+  float: left;
+}
+.box .icon .logo{
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  margin: 10px auto 10px auto;
+  border-radius: 20px;
+  background-image: url('../image/0.png');
+  /*background-image: url('http://localhost:8889/image/0.png')*/
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+
+.box .info{
+  width: 260px;
+  height: 60px;
+  float: right;
+  color: white;
+}
+.box .info .title{
+  font-weight: 300;
+  padding-left: 10px;
+}
+.box .info .describe{
+  padding-left: 10px;
+}
