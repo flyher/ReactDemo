@@ -1,8 +1,0 @@
-C:\study\react\4.import data\RenderData\Model\bin\Debug\Model.dll
-C:\study\react\4.import data\RenderData\Model\bin\Debug\Model.pdb
-C:\study\react\4.import data\RenderData\Model\obj\Debug\Model.dll
-C:\study\react\4.import data\RenderData\Model\obj\Debug\Model.pdb
-C:\study\react\4.import data\Model\bin\Debug\Model.dll
-C:\study\react\4.import data\Model\bin\Debug\Model.pdb
-C:\study\react\4.import data\Model\obj\Debug\Model.dll
-C:\study\react\4.import data\Model\obj\Debug\Model.pdb
