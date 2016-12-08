@@ -1,0 +1,10 @@
+﻿{
+  "success": true,
+  "data": {
+    "id": 1,
+    "name": "A",
+    "logo": "../Img/1.jpg",
+    "updateid": 0,
+    "updatedate": "2016-10-26 00:00:00"
+  }
+}
