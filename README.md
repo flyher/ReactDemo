@@ -13,13 +13,13 @@
 3.import css  
 [React引入样式](http://blog.99diary.com/2016/10/28/react引入样式/)
 
-- [ ] 
+- [x] 
 4.import data  
-[前后端数据绑定]()
+[前后端数据绑定](http://blog.99diary.com/2016/10/31/react前后端数据绑定/)
 
-- [ ] 
+- [x] 
 5.component communication  
-[React事件传递]()
+[React事件传递](http://blog.99diary.com/2016/11/22/react事件传递/)
 
 - [ ] 
 6.component interactive  
