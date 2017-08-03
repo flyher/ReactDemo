@@ -1,6 +1,8 @@
 # react-demos
 The source code for my React blogs
 
+[Simplified Chinese](README-CN.md)
+
 - [x] 
 1.helloworld  
 [Write React by WebPack for my first time](http://blog.99diary.com/2016/03/11/第一次使用WebPack来写React/)
