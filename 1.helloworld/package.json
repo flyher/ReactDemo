@@ -8,7 +8,8 @@
   "version": "0.1.0",
   "main": "components/index.js",
   "dependencies": {
-    "react": "^0.14.7"
+    "react": "^15.6.1",
+    "react-dom":"^15.6.1"
   },
   "devDependencies": {
     "bootstrap": "^3.3.6",
